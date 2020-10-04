@@ -19,7 +19,7 @@ https://docs.microsoft.com/en-us/windows/win32/cimwin32prov/win32-logicaldisk
 
 ## Example
 
-- Add this function on your script  set a variable with the function name and call this variable for shor the result. Here is an example of a result when looking for the size of local disks
+- Add this function on your script  set a variable with the function name and call this variable for show the result. Here is an example of a result when looking for the size of local disks
  ```
 $SIZEBEFORECLEAN = Get_DiskSize
 write-host $SIZEBEFORECLEAN
